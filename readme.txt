@@ -7,3 +7,5 @@ dddddddddddddddddd
 fffffffffffffffffffffff
 ggggggggggggggggggggggggg
 
+处理bug完成
+刚才没有提交，这次真的提交了
